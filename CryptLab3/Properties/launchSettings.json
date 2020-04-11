@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CryptLab3": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Data\\Documents\\CryptLab3\\CryptLab3\\TestDoc.txt TestDocOutput.txt"
+    }
+  }
+}
